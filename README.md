@@ -9,4 +9,4 @@ In this repo I summarise work adapting a hierarchical Bayesian model, *BayeSN*, 
 
 3. We demonstrate how to estimate cosmological parameters, e.g. the Hubble constant, using Type Ia supernova siblings.
 
-See jupyter notebook for summary and plots.
+See jupyter notebook, **SingleGalaxySiblingsAnalysis.ipynb** for summary and plots.
