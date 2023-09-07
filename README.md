@@ -11,4 +11,4 @@ In this repo I summarise work done to adapt a hierarchical Bayesian model, *Baye
 
 See jupyter notebook, [**SingleGalaxySiblingsAnalysis.ipynb**](https://github.com/sam-m-ward/Supernova-Siblings/blob/main/SingleGalaxySiblingsAnalysis.ipynb) for summary and plots.
 
-Full work published in ApJ ([**Ward et al. 2023**](https://arxiv.org/abs/2209.10558)).
+Full work published in *The Astrophysical Journal* ([**Ward et al. 2023**](https://arxiv.org/abs/2209.10558)).
