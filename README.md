@@ -5,7 +5,7 @@ In this repo I summarise work done to adapt a hierarchical Bayesian model, *Baye
 
 1. Estimates of siblings parameters improve by fitting all the siblings' data simultaneously, as compared to constraints from fitting each sibling individually.
 
-2. The parameter estimates in the joint fit are affected by the intrinsic scatter assumptions, with distance posteriors widening with a lower level of correlation, and vice versa for all remaining parameters; therefore, the relative intrinsic scatter, $\sigma_{\rm{Rel}}$, must be marginalised over in any siblings analysis to robusly estimate parameters of interest.
+2. The parameter estimates in the joint fit are affected by the intrinsic scatter assumptions, with distance posteriors widening with a lower level of correlation, and vice versa for all remaining parameters; therefore, the relative intrinsic scatter, $\sigma_{\rm{Rel}}$, must be marginalised over in any siblings analysis to robustly estimate parameters of interest.
 
 3. We demonstrate how to estimate cosmological parameters, e.g. the Hubble constant, using these hierarchical methods for Type Ia supernova siblings.
 
