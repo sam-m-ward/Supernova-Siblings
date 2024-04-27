@@ -1,7 +1,7 @@
 # Supernova-Siblings
 A single-galaxy hierarchical Bayesian model for Type Ia Supernovae that exploded in the same host galaxy: 'SN Siblings'. 
 
-This repo summarise's work done to adapt a hierarchical Bayesian model, *BayeSN*, to fit light curves of supernova siblings simultaneously. I present the new Stan code, and key conclusions, which are:  
+This repo summarises work done to adapt a hierarchical Bayesian model, *BayeSN*, to fit light curves of supernova siblings simultaneously. I present the new Stan code, and key conclusions, which are:  
 
 1. Estimates of siblings parameters improve by fitting all the siblings' data simultaneously, as compared to constraints from fitting each sibling individually.
 
